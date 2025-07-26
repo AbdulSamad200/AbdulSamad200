@@ -10,7 +10,7 @@ I'm an AI Engineering undergraduate at **FAST NUCES** with hands-on experience i
   
 
 - **🕸️ Agentic AI & LLM Workflows**  
-  Actively building with **LangChain**, **LangGraph**, and **CrewAI** to develop autonomous AI agents that reason, retain memory, and use tools effectively. I'm exploring prompt engineering, multi-agent coordination, retrieval-augmented generation (RAG), and real-time decision-making using **OpenAI**, **Gemini**, and **Retell AI**.
+  Exploring the fundamentals of **LangChain**, **LangGraph**, and **CrewAI** to build autonomous agent workflows. Learning how to structure agent memory, reasoning, and tool usage using concepts like **Model Context Protocol (MCP)**, while working with LLMs such as **OpenAI** and **Gemini**. Also experimenting with voice and real-time interaction platforms like **Retell AI** and **Livekit**.
 
 - **📊 Real-World Analytics**  
   Created Power BI dashboards and automated ETL pipelines during internships and freelance projects. Experience includes financial reporting, utilization metrics, Power Automate workflows, and data-driven insights for decision-making.
