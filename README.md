@@ -20,7 +20,7 @@
 
 ## 🧠 Who I Am
 
-I'm an **AI/ML Engineer** with 1+ years of production experience building **Generative AI systems**, **Advanced RAG pipelines**, and **deep learning solutions** that ship. I graduated with a **BS in Artificial Intelligence** from **FAST NUCES** and currently work at **LN Technologies**, where I own the full lifecycle — from model training on Azure ML to containerized cloud deployment.
+I'm an **AI/ML Engineer** with 3+ years of production experience building **Generative AI systems**, **Advanced RAG pipelines**, and **deep learning solutions** that ship. I graduated with a **BS in Artificial Intelligence** from **FAST NUCES** and currently work at **LN Technologies**, where I own the full lifecycle — from model training on Azure ML to containerized cloud deployment.
 
 I don't just prototype. I build systems that run in production.
 
