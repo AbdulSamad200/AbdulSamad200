@@ -1,28 +1,92 @@
-### Hi there, I'm Abdul Samad 👋
+<div align="center">
 
-**Welcome to my GitHub profile!**  
-I'm an AI Engineering undergraduate at **FAST NUCES** with hands-on experience in applied machine learning, LLM workflows, and cloud-based ML systems. I'm currently working as an AI Engineer at **Smartsphere Technologies(NIC Karachi)** and exploring the intersection of **deep learning, agentic AI, and real-world impact**.
+```
+  _  _   ___   _   _ _    __   __  ___ ___   ___ 
+ | || | / __| | | | | |   \ \ / / | _ \ __| / __|
+ | __ || (__  | |_| | |__  \ V /  |  _/ _|  \__ \
+ |_||_| \___|  \___/|____|  \_/   |_| |___| |___/
+```
 
+# Khaja Abdul Samad
+### AI/ML Engineer · Karachi, Pakistan
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaja-abdul-samad-20a4472b4/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabdulsamad2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulSamad200/)
+
+</div>
 
 ---
 
-- 🔭 **I’m currently working on:**  
-  
+## 🧠 Who I Am
 
-- **🕸️ Agentic AI & LLM Workflows**  
-  Exploring the fundamentals of **LangChain**, **LangGraph**, and **CrewAI** to build autonomous agent workflows. Learning how to structure agent memory, reasoning, and tool usage using concepts like **Model Context Protocol (MCP)**, while working with LLMs such as **OpenAI** and **Gemini**. Also experimenting with voice and real-time interaction platforms like **Retell AI** and **Livekit**.
+I'm an **AI/ML Engineer** with 1+ years of production experience building **Generative AI systems**, **Advanced RAG pipelines**, and **deep learning solutions** that ship. I graduated with a **BS in Artificial Intelligence** from **FAST NUCES** and currently work at **LN Technologies**, where I own the full lifecycle — from model training on Azure ML to containerized cloud deployment.
 
-- **📊 Real-World Analytics**  
-  Created Power BI dashboards and automated ETL pipelines during internships and freelance projects. Experience includes financial reporting, utilization metrics, Power Automate workflows, and data-driven insights for decision-making.
+I don't just prototype. I build systems that run in production.
 
-- **⚙️ Transitioning into MLOps**  
-  Currently exploring **MLOps** to streamline the deployment, monitoring, and scaling of ML models in production. Learning to use tools like **Docker**, **Azure Machine Learning**, **CI/CD**, and model versioning systems to build robust AI workflows.
-
-
-- 💬 **Ask me about:**  
-  My experiences with **building dynamic dashboards using Power BI**, **creating ETL pipelines**, and **integrating AI services** into real-world applications. I also enjoy discussing **cloud computing** and **AI trends**.
-
-- 📫 **How to reach me:**  
-  Feel free to reach out via email at **kabdulsamad2003@gmail.com**.  
-  Connect with me on **[LinkedIn]([https://www.linkedin.com/in/abdulsamad/)**](https://www.linkedin.com/in/khaja-abdul-samad-20a4472b4/) for professional updates and networking!
 ---
+
+## ⚡ What I'm Working On
+
+- 🔁 **Full Azure ML Lifecycle Pipelines** — automating model versioning, compute cluster management, and training job orchestration triggered via Azure App Service
+- 🤖 **Production RAG & CRAG Systems** — Qdrant-backed pipelines with Cross-Encoder reranking, LLM observability (RAGAS), and multi-turn memory across enterprise knowledge bases
+- 👁️ **YOLOv Object Detection** — training and fine-tuning custom models on domain-specific datasets at >90% accuracy
+- 🐳 **Containerized AI Services** — Docker + Azure/AWS deployments that cut environment setup overhead by ~50%
+
+---
+
+## 🛠️ Tech Stack
+
+**AI & LLM**  
+`RAG / CRAG` `LangChain` `LlamaIndex` `OpenAI Agents SDK` `Prompt Engineering` `AI Agents` `MCP`
+
+**ML & Deep Learning**  
+`TensorFlow` `PyTorch` `Scikit-learn` `Ensemble Models` `YOLOv` `Fine-tuning` `Azure ML`
+
+**Vector Databases & Search**  
+`Qdrant` `FAISS` `Chroma` `Pinecone` `Cross-Encoder Reranking` `Semantic Search`
+
+**APIs & Infrastructure**  
+`FastAPI` `Flask` `SSE Streaming` `Docker` `Microservices` `Twilio` `n8n`
+
+**Cloud & Data**  
+`Azure` (App Service · ML · Blob Storage) `AWS` (EC2 · Bedrock) `Python` `SQL` `MongoDB` `Redis` `PostgreSQL` `Firebase`
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 [Advanced-CRAG-Pipeline](https://github.com/AbdulSamad200/)
+> *FastAPI · React · Gemini 2.5 Flash · Tavily · Qdrant*
+
+A **production Corrective RAG system** with two-stage Cross-Encoder reranking and vector-based confidence thresholds. Intelligently fuses PDF knowledge retrieval with Tavily web search fallbacks — with real-time **SSE streaming** through a React + TailwindCSS dashboard.
+
+`CRAG` `Cross-Encoder Reranking` `SSE Streaming` `Full-Stack AI`
+
+---
+
+
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Abdul Samad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulSamad200&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSamad200&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to talking AI infrastructure, RAG systems, or freelance AI engineering work.
+
+📧 **kabdulsamad2003@gmail.com**  
+💼 **[LinkedIn](https://www.linkedin.com/in/khaja-abdul-samad-20a4472b4/)**
+
+---
+
+<div align="center">
+  <sub>Built by someone who actually deploys to production 🚀</sub>
+</div>
