@@ -67,16 +67,7 @@ A **production Corrective RAG system** with two-stage Cross-Encoder reranking an
 
 
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-![Abdul Samad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulSamad200&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSamad200&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📬 Let's Connect
 
