@@ -1,83 +1,111 @@
 <div align="center">
 
-```
-  _  _   ___   _   _ _    __   __  ___ ___   ___ 
- | || | / __| | | | | |   \ \ / / | _ \ __| / __|
- | __ || (__  | |_| | |__  \ V /  |  _/ _|  \__ \
- |_||_| \___|  \___/|____|  \_/   |_| |___| |___/
-```
+# Abdul Samad Khaja
 
-# Khaja Abdul Samad
-### AI/ML Engineer · Karachi, Pakistan
+### AI/ML Engineer • Generative AI • Production RAG • AI Agents
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaja-abdul-samad-20a4472b4/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabdulsamad2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulSamad200/)
+Building production AI systems using Large Language Models, AI Agents, Retrieval-Augmented Generation, and cloud-native ML infrastructure.
+
+<p>
+<a href="https://www.linkedin.com/in/khaja-abdul-samad-20a4472b4/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kabdulsamad2003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AbdulSamad200">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-## 🧠 Who I Am
+# 👋 About Me
 
-I'm an **AI/ML Engineer** with 3+ years of production experience building **Generative AI systems**, **Advanced RAG pipelines**, and **deep learning solutions** that ship. I graduated with a **BS in Artificial Intelligence** from **FAST NUCES** and currently work at **LN Technologies**, where I own the full lifecycle — from model training on Azure ML to containerized cloud deployment.
+I'm an **AI/ML Engineer** with around **2 years of professional experience** building production AI applications.
 
-I don't just prototype. I build systems that run in production.
+I specialize in **Generative AI**, **Retrieval-Augmented Generation (RAG)**, **AI Agents**, and **Machine Learning deployment**.
 
----
-
-## ⚡ What I'm Working On
-
-- 🔁 **Full Azure ML Lifecycle Pipelines** — automating model versioning, compute cluster management, and training job orchestration triggered via Azure App Service
-- 🤖 **Production RAG & CRAG Systems** — Qdrant-backed pipelines with Cross-Encoder reranking, LLM observability (RAGAS), and multi-turn memory across enterprise knowledge bases
-- 👁️ **YOLOv Object Detection** — training and fine-tuning custom models on domain-specific datasets at >90% accuracy
-- 🐳 **Containerized AI Services** — Docker + Azure/AWS deployments that cut environment setup overhead by ~50%
+My work spans the complete AI lifecycle—from data ingestion and retrieval pipelines to model evaluation, API development, containerization, and cloud deployment.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 What I Build
 
-**AI & LLM**  
-`RAG / CRAG` `LangChain` `LlamaIndex` `OpenAI Agents SDK` `Prompt Engineering` `AI Agents` `MCP`
-
-**ML & Deep Learning**  
-`TensorFlow` `PyTorch` `Scikit-learn` `Ensemble Models` `YOLOv` `Fine-tuning` `Azure ML`
-
-**Vector Databases & Search**  
-`Qdrant` `FAISS` `Chroma` `Pinecone` `Cross-Encoder Reranking` `Semantic Search`
-
-**APIs & Infrastructure**  
-`FastAPI` `Flask` `SSE Streaming` `Docker` `Microservices` `Twilio` `n8n`
-
-**Cloud & Data**  
-`Azure` (App Service · ML · Blob Storage) `AWS` (EC2 · Bedrock) `Python` `SQL` `MongoDB` `Redis` `PostgreSQL` `Firebase`
+- Production-ready RAG & CRAG systems
+- AI Agents & Multi-Agent workflows
+- Enterprise document intelligence
+- Hybrid Search pipelines
+- FastAPI backend services
+- Azure ML pipelines
+- Cloud-native AI applications
+- LLM evaluation & observability
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Tech Stack
 
-### 🔍 [Advanced-CRAG-Pipeline](https://github.com/AbdulSamad200/)
-> *FastAPI · React · Gemini 2.5 Flash · Tavily · Qdrant*
+<p align="center">
 
-A **production Corrective RAG system** with two-stage Cross-Encoder reranking and vector-based confidence thresholds. Intelligently fuses PDF knowledge retrieval with Tavily web search fallbacks — with real-time **SSE streaming** through a React + TailwindCSS dashboard.
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,azure,aws,postgres,mongodb,redis,git,github,vscode" />
 
-`CRAG` `Cross-Encoder Reranking` `SSE Streaming` `Full-Stack AI`
+</p>
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant,tensorflow,pytorch,sklearn,firebase" />
+
+</p>
 
 ---
 
+# 🧠 AI & LLM Technologies
 
+<p align="center">
 
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
 
-## 📬 Let's Connect
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 
-I'm always open to talking AI infrastructure, RAG systems, or freelance AI engineering work.
+<img src="https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge"/>
 
-📧 **kabdulsamad2003@gmail.com**  
-💼 **[LinkedIn](https://www.linkedin.com/in/khaja-abdul-samad-20a4472b4/)**
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAGAS-4B8BBE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DeepEval-24292E?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+- Advanced Agentic AI
+- Model Context Protocol (MCP)
+- LLM Observability
+- Production MLOps
+- Azure ML Pipelines
+- Multi-Agent Systems
+
+---
+
+# 📫 Connect
+
+📧 **kabdulsamad2003@gmail.com**
+
+💼 **LinkedIn:** https://linkedin.com/in/khaja-abdul-samad-20a4472b4
 
 ---
 
 <div align="center">
-  <sub>Built by someone who actually deploys to production 🚀</sub>
+
+### Building AI systems that go beyond prototypes into production.
+
 </div>
